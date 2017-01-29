@@ -10,7 +10,7 @@
     "bluebird": "^2.9.25",
     "custom-error": "^0.2.1",
     "lodash": "^3.9.3",
-    "mashape-oauth": "https://github.com/adamk33n3r/mashape-oauth",
+    "mashape-oauth": "adamk33n3r/mashape-oauth",
     "request": "^2.55.0",
     "winston": "^1.0.0"
   },
