@@ -11,7 +11,7 @@
     "custom-error": "^0.2.1",
     "lodash.merge": "^4.6.1",
     "mashape-oauth": "adamk33n3r/mashape-oauth",
-    "request": "^2.55.0",
+    "request": "^2.88.0",
     "winston": "^1.0.0"
   },
   "optionalDependencies": {
